@@ -32,15 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/114371928/210710298-63711efd-9017-47e0-a6b3-76fa067e7571.png)
 
-Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/BrandonSalimTheHuman/expenses-chart-page-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -51,57 +48,32 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Throughout designing the divs, things still made sense and I think I generally understood the html file and css file, but the chart part was completely new to me.
+![image](https://user-images.githubusercontent.com/114371928/210711078-5d6bb149-2d60-4242-9446-b720f9cc2f21.png)
+From this format, I learnt how to input data, set the colors and opacity of bar graphs, and show it.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+One main point that I hope to be better with is to break down problems into logical steps. Upon seeing the end result, I initially had no idea how to convert the starting website into the result, but I hope to be able to lay out steps and think it through better in the future
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+-https://youtu.be/wfbeDrcchNc: Helped me break down the initial design step by step and getting the general look of the website.
+-https://youtu.be/hK4n-IpZ7iE: Helped me implement the chart
+-https://www.chartjs.org/docs/latest/: Step-by-step guide on charts
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Your Detail 
 
-- FullName - [Add your name here]
-- StudentID - [Add your StudentID here]
-- BINUS Email - [Add your BINUS email here]
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- FullName - Brandon Salim
+- StudentID - 2602177783
+- BINUS Email - brandon.salim@binus.ac.id
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Emir -> helped me eventually get the chart working
