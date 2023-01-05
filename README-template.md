@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/BrandonSalimTheHuman/expenses-chart-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://brandonsalimthehuman.github.io/expenses-chart-page-main/
 
 ## My process
 
