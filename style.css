@@ -1,0 +1,91 @@
+/* import font for body */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* assigning global values */
+:root {
+    /* assining colors */
+    --cream: hsl(27, 66%, 92%);
+    --soft-red: hsl(10, 79%, 65%);
+    --dark-brown: hsl(25, 47%, 15%);
+    --medium-brown: hsl(28, 10%, 53%);
+    --cyan: hsl(186, 34%, 60%);
+}
+
+body {
+    display: flex;
+    font-family: 'DM Sans', sans-serif;
+    justify-content: center;
+    align-items: center;
+    min-height: 150vh;
+    background: var(--cream);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: 28em;
+}
+
+.upper-container {
+    display: flex;
+    background: var(--soft-red);
+    justify-content: space-between;
+    padding: 2em;
+    color: white;
+    border-radius: 1em;
+}
+
+.lower-container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 1em;
+    background: white;
+    padding: 2em;
+    color: var(--dark-brown);
+}
+
+.chart-area {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart{
+    display: flex;
+    flex-direction: column;
+    height: 12em;
+    gap: 0.5em;
+    justify-content: center;
+    align-items: center;
+}
+
+hr{
+    border: none;
+    width: 100%;
+    height: 1px;
+    background: var(--cream);
+    margin: 1em 0;
+}
+
+.bottom-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bottom-part .right-side{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.lower-container small {
+    font-size: 0.8em;
+    color: var(--medium-brown);
+}
